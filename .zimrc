@@ -1,0 +1,27 @@
+# Basics
+zmodule environment
+zmodule git
+zmodule git-info
+zmodule input
+zmodule termtitle
+zmodule utility
+zmodule completion
+
+# Tools
+zmodule archive
+zmodule pabloariasal/zfm
+zmodule Aloxaf/fzf-tab
+zmodule zsh-users/zsh-history-substring-search
+zmodule supercrabtree/k
+zmodule hlissner/zsh-autopair
+zmodule zsh-users/zsh-completions
+
+# Themes
+#zmodule gitster
+zmodule prompt-pwd
+zmodule zdharma/fast-syntax-highlighting
+zmodule z-shell/F-Sy-H
+zmodule asciiship
+zmodule zsh-users/zsh-autosuggestions
+zmodule romkatv/powerlevel10k --use degit
+#zmodule zsh-users/zsh-syntax-highlighting
